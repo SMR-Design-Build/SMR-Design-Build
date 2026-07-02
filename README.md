@@ -1,6 +1,11 @@
 <div align="center">
 
-# SMR Design & Build
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/smr-logo-white.svg">
+  <img src="assets/smr-logo.svg" alt="SMR Design & Build" width="340">
+</picture>
+
+<br/><br/>
 
 **Built on sacrifice. Sustained by faith.**
 
